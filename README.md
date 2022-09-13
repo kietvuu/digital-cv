@@ -5,7 +5,7 @@
 Studying at [edunation](https://app.claned.com/#/feed) <br>
 Studied at [HNUE High School for Gifted Students](https://www.facebook.com/HNUEHighSchool), [Tô  secondary school](https://www.facebook.com/THCSTohoang/) <br>
 ## Certificate: <br>
-5.5 IETLS <br>
+6.5 IETLS <br>
 Head of media of Movies for Relief
 ## Technical Experience
 Python
